@@ -17,7 +17,7 @@
         android:background="#30ffffff"
         android:text="Get Started"
         android:textStyle="bold"
-        android:textSize="30dp"
+        android:textSize="31dp"
         />
 
 
